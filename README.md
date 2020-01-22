@@ -22,7 +22,7 @@ These teams use practices to automate processes that historically have been manu
 
  #    Speed
  
-	Move at high velocity so you can innovate for customers faster, adapt 		to changing markets better, and grow more efficient at driving 			business results. The DevOps model enables your developers and 			operations teams to achieve these results. For 						example, micro-services and continuous delivery let teams take 				ownership of services and then release updates to them quicker. 
+	Move at high velocity so you can innovate for customers faster, adapt 		to changing markets better, and grow more efficient at driving 			business results. The DevOps model enables your developers and 			operations teams to achieve these results. For 						example, micro-services and continuous delivery let teams take 				ownership of services and then release updates to them quicker.
 
 #  		Rapid Delivery
 
@@ -33,7 +33,7 @@ These teams use practices to automate processes that historically have been manu
 	Ensure the quality of application updates and infrastructure changes 		so you can reliably deliver at a more rapid pace while maintaining a 		positive experience for end users. Use practices like continuous 			integration and continuous delivery to test that each change is 			functional and safe. Monitoring and logging practices help you stay 			informed of performance in real-time.
 
 # 			Scale
-	Operate and manage your infrastructure and development processes 		at scale. Automation and consistency help you manage complex or 			changing systems efficiently and with reduced risk. For 				example, infrastructure as code helps you manage your development, 	testing, and production environments in a repeatable and more 			efficient manner. 
+	perate and manage your infrastructure and development processes 		at scale. Automation and consistency help you manage complex or 			changing systems efficiently and with reduced risk. For 				example, infrastructure as code helps you manage your development, 	testing, and production environments in a repeatable and more 			efficient manner.
 
 
 
@@ -68,7 +68,7 @@ There are a few key practices that help organizations innovate faster through au
 One fundamental practice is to perform very frequent but small updates. This is how organizations innovate faster for their customers. These updates are usually more incremental in nature than the occasional updates performed under traditional release practices. Frequent but small updates make each deployment less risky. They help teams address bugs faster because teams can identify the last deployment that caused the error. Although the cadence and size of updates will vary, organizations using a DevOps model deploy updates much more often than organizations using traditional software development practices.
 Organizations might also use a micro-services architecture to make their applications more flexible and enable quicker innovation. The micro-services architecture decouples large, complex systems into simple, independent projects. Applications are broken into many individual components (services) with each service scoped to a single purpose or function and operated independently of its peer services and the application as a whole. This architecture reduces the coordination overhead of updating applications, and when each service is paired with small, agile teams who take ownership of each service, organizations can move more quickly.
 However, the combination of micro-services and increased release frequency leads to significantly more deployments which can present operational challenges. Thus, DevOps practices like continuous integration and continuous delivery solve these issues and let organizations deliver rapidly in a safe and reliable manner. Infrastructure automation practices, like infrastructure as code and configuration management, help to keep computing resources elastic and responsive to frequent changes. In addition, the use of monitoring and logging helps engineers track the performance of applications and infrastructure so they can react quickly to problems.
-Together, these practices help organizations deliver faster, more reliable updates to their customers. Here is an overview of important DevOps  practices. 
+Together, these practices help organizations deliver faster, more reliable updates to their customers. Here is an overview of important DevOps  practices.
 
 #    DevOps Practices
 The following are DevOps best practices: 
